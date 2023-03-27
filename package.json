@@ -1,0 +1,19 @@
+{
+  "name": "circular",
+  "version": "1.0.0",
+  "description": "Simple contrived application to illustrate circular dependency handling in NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomch3ng/circular.git"
+  },
+  "author": "Tom Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomch3ng/circular/issues"
+  },
+  "homepage": "https://github.com/tomch3ng/circular#readme"
+}
